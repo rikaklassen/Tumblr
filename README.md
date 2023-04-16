@@ -1,5 +1,7 @@
 # Tumblr
- Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account.
+ Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account. 
+
+Replies to other accounts are not archived. Please use the [Wayback Machine](https://web.archive.org/web/*/https://rikaklassen.tumblr.com/*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
