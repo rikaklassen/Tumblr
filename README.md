@@ -1,7 +1,7 @@
 # Tumblr
  Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account. 
 
-Due to copyright concerns, replies to other people's posts are not archived. Please use the [Wayback Machine](https://web.archive.org/web/*/https://rikaklassen.tumblr.com/*).
+Due to copyright concerns, replies to other people's posts are not archived on GitHub or GitLab. Please use the [Wayback Machine](https://web.archive.org/web/*/https://rikaklassen.tumblr.com/*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
