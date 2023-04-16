@@ -1,5 +1,7 @@
 # Tumblr
- Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account. 
+Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account.
+ 
+The pictures embedded in the individual posts may not display image descriptions correctly on GitHub. Check the raw file if you need the image description.
 
 Due to copyright concerns, replies to other people's posts are not archived on GitHub nor GitLab. Please use the [Wayback Machine](https://web.archive.org/web/*/https://rikaklassen.tumblr.com/*).
 ## Support
